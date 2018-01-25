@@ -1,0 +1,4 @@
+1  123   NA   NA   NA   A  T  G  C  NA 
+1  124   G     T  NA    T   T   T   NA   C 
+2  125   T     NA   NA   A  T  G
+2  567   C     G   NA   A  T  G
